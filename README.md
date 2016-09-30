@@ -31,6 +31,9 @@
 
 ### Algorithms
 
+ *Here's a link to the NY Times,
+ *http://www.nytimes.com/
+
 #### Sorting
 
 * [Insertion Sort as Dance][IS]
